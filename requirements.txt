@@ -1,2 +1,8 @@
 ipykernel
 python-dotenv
+pandas
+altair
+vega_datasets
+plotly
+openpyxl
+nbformat>=4.2.0
